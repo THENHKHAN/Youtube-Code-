@@ -1,0 +1,25 @@
+
+// program to print on console window OR use of cout .
+
+#include<iostream>
+#include<conio.h>
+
+  using namespace std ;
+
+  int main (  )
+  {
+     int num= -5.5;
+
+    cout << num << endl ;
+    cout << " hello "<< endl ;
+
+
+     getch ( ) ;
+
+      return 0 ;
+
+  }
+
+
+
+
