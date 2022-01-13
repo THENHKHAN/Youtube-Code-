@@ -1,0 +1,18 @@
+
+// Assignment operator use , data type Concept example
+
+#include <iostream>
+#include<conio.h>
+
+using namespace std ;
+
+int main ( )
+{
+    int num = 9  ;
+    float num2=2 ;
+  float sum = num/num2 ;  // 4.5
+
+    cout <<" sum : " <<sum  <<endl;
+    getch ( );
+    return 0;
+}
